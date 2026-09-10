@@ -4,9 +4,8 @@ Latex templates for reports and presentations of the institute.
 ## About confidentiality
 In all tex files, there is a variable to check in order to stamp the confidential mark or not
 
-<code>
-\newif\ifconfidential
-\confidentialtrue   % set to \confidentialfalse or \confidentialfalse
+<code>\newif\ifconfidential
+\confidentialtrue   % set to \confidentialfalse or \confidentialtrue
 </code>
 
 ## Beamer Template
